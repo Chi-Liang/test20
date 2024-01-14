@@ -8,6 +8,7 @@ public class ApiController {
 
 	@GetMapping("/test1")
 	public String aa() {
+		int a = 1/0;
 		return "aaaaaaaa";
 	}
 	
