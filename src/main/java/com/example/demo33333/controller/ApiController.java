@@ -5,12 +5,17 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class ApiController {
-	
-	//TODO xxxxxxx
+
+	// TODO xxxxxxx
 	@GetMapping("/test1")
 	public String aa() {
-		int a = 1/0;
+		int a = 1 / 0;
 		return "aaaaaaaa";
 	}
-	
+	@GetMapping("/test11")
+	public String aaa() {
+		int a = 1 / 0;
+		return "aaaaaaaa";
+	}
+
 }
