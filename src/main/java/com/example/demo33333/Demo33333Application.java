@@ -9,7 +9,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class Demo33333Application extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
-		System.out.println("12369877dfsdfdf");
+		System.out.println("12369877dfsdfdf6666");
 		SpringApplication.run(Demo33333Application.class, args);
 	}
 	
