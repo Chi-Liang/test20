@@ -9,7 +9,7 @@ public class ApiController {
 	// TODO xxxxxxx
 	@GetMapping("/test1")
 	public String aa() {
-		return "cccccccttt191919";
+		return "cccccccttt19191919";
 	}
 	@GetMapping("/test11")
 	public String aaa() {
