@@ -9,11 +9,11 @@ public class ApiController {
 	// TODO xxxxxxx
 	@GetMapping("/test1")
 	public String aa() {
-		return "aaaaaaaaaaaaaaaa";
+		return "cccccccttt";
 	}
 	@GetMapping("/test11")
 	public String aaa() {
-		System.out.println("9999999996666666666");
+		System.out.println("9999999996666666666999");
 		return "aaaaaaaa";
 	}
 
